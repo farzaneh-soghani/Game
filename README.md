@@ -11,8 +11,8 @@ Das Ziel ist, beide Steine ins Ziel zu bringen. Wer zuerst beide Steine erreicht
 - Gegnerische Steine werden bei gleicher Position zurückgesetzt
 - Nach jedem Zug wird auf eine Eingabe gewartet, um das Spiel schrittweise zu spielen
 
-## Installation & Start
-
+## Installation & Start  
+Um das Spiel lokal auszuführen, folge diesen Schritten im Terminal:  
 1. **Java 17** oder höher installieren
 2. Projekt klonen:
 
