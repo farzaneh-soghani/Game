@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Game {
-    public static void main(String[] args) {
+    public static void startGame(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Wie viele Felder soll das Spielfeld haben? Gib eine Zahl ein: ");
@@ -95,6 +95,7 @@ public class Game {
 
             System.out.println("\n-> Nächster Spieler\n");
         }
+        sc.close();
     }
 
     static void druckeFeld(Player p1, Player p2, int ziel) {
