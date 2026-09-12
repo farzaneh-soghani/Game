@@ -23,7 +23,7 @@ git clone https://github.com/farzaneh-soghani/Game.git
 - `Erst in den Projektordner wechseln` → cd Game  
 - `Dann in den src-Ordner wechseln` → cd src  
 - `Alle Java-Dateien kompilieren` → javac *.java 
-- `Das Spiel starten` → java Game
+- `Das Spiel starten` → java Main
 
 Beim Start wirst du aufgefordert, eine Zahl einzugeben, die als Ziel für die Spielsteine dient.
 ### Enter klicken, dann wird das Spiel laufen. 
